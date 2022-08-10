@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am a Software Developer fascinated by Technology. I have deep interest in App & Web Development.<br>🌱 I’m currently learning cross platform app development with react native .<br>
+🔭I am a Software Developer fascinated by Technology.I have deep interest in App & Web Development.<br>🌱 I’m currently learning cross platform app development with react native.. .<br>
 
 
 ## 🌐 Socials:
